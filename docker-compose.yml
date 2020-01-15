@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  app:
+    image: golang:1.13
+    command: tail -f /dev/null
+    working_dir: /go/src/app
+    volumes:
+      - "./:/go/src/app:rw"
+    environment:
+      - "GOFLAGS=-mod=vendor"

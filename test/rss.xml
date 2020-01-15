@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="//feed.pippa.io/feed/rss.xslt" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podaccess="https://access.acast.com/schema/1.0/">
+		<channel>
+				<ttl>60</ttl>
+
+				<generator>pippa.io</generator>
+
+				<title>Letscode.hu</title>
+
+				<link>https://app.letscode.hu</link>
+
+			<atom:link href="https://feed.pippa.io/public/shows/5aeff6d96eb47cc259946df2" rel="self" type="application/rss+xml"/>
+				<language>en</language>
+
+				<copyright>All rights reserved</copyright>
+
+				<itunes:keywords/>
+
+				<itunes:author>Letscode.hu</itunes:author>
+
+				<itunes:subtitle>Lazább hangvételű beszélgetések három programozóv…</itunes:subtitle>
+
+				<itunes:summary>Lazább hangvételű beszélgetések három programozóval.</itunes:summary>
+
+				<description>Lazább hangvételű beszélgetések három programozóval.</description>
+
+				<itunes:explicit>yes</itunes:explicit>
+
+				<itunes:owner>
+					<itunes:name>Letscode.hu</itunes:name>
+					<itunes:email>info+5aeff6d96eb47cc259946df2@mg.pippa.io</itunes:email>
+</itunes:owner>
+
+			<itunes:image href="https://assets.pippa.io/shows/5aeff6d96eb47cc259946df2/show-cover.jpg"/>
+				<image>
+					<url>https://assets.pippa.io/shows/5aeff6d96eb47cc259946df2/show-cover.jpg</url>
+					<link>https://app.letscode.hu</link>
+					<title>Letscode.hu</title>
+</image>
+
+				<itunes:new-feed-url>https://feed.pippa.io/public/shows/5aeff6d96eb47cc259946df2</itunes:new-feed-url>
+
+				<item>
+						<title>Pluginek</title>
+
+						<itunes:title>Pluginek</itunes:title>
+
+						<pubDate>Mon, 13 Jan 2020 07:00:06 GMT</pubDate>
+
+						<itunes:duration>53:13</itunes:duration>
+
+					<enclosure url="https://feed.pippa.io/public/streams/5aeff6d96eb47cc259946df2/episodes/5e1aec400bdb38073b7be74e.mp3" length="76642739" type="audio/mp3"/>
+					<guid isPermaLink="false">5e1aec400bdb38073b7be74e</guid>
+						<itunes:explicit>yes</itunes:explicit>
+
+						<link>https://shows.acast.com/5aeff6d96eb47cc259946df2/pluginek</link>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>3</itunes:season>
+
+						<itunes:episode>17</itunes:episode>
+
+						<description>undefined</description>
+
+						<itunes:summary>undefined</itunes:summary>
+
+</item>
+
+				<item>
+						<title>Egyetemes oroszlánbajusz</title>
+
+						<itunes:title>Egyetemes oroszlánbajusz</itunes:title>
+
+						<pubDate>Mon, 06 Jan 2020 07:12:41 GMT</pubDate>
+
+						<itunes:duration>56:28</itunes:duration>
+
+					<enclosure url="https://feed.pippa.io/public/streams/5aeff6d96eb47cc259946df2/episodes/5e1235edb6875cb240faab16.mp3" length="81338471" type="audio/mp3"/>
+					<guid isPermaLink="false">5e1235edb6875cb240faab16</guid>
+						<itunes:explicit>yes</itunes:explicit>
+
+						<link>https://shows.acast.com/5aeff6d96eb47cc259946df2/egyetemes-oroszlanbajusz</link>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>3</itunes:season>
+
+						<itunes:episode>16</itunes:episode>
+
+						<description>undefined</description>
+
+						<itunes:summary>undefined</itunes:summary>
+
+</item>
+
+				<item>
+						<title>Svájc</title>
+
+						<itunes:title>Svájc</itunes:title>
+
+						<pubDate>Mon, 16 Dec 2019 07:00:57 GMT</pubDate>
+
+						<itunes:duration>56:00</itunes:duration>
+
+					<enclosure url="https://feed.pippa.io/public/streams/5aeff6d96eb47cc259946df2/episodes/5df6170d8fe068270aabae54.mp3" length="80667251" type="audio/mp3"/>
+					<guid isPermaLink="false">5df6170d8fe068270aabae54</guid>
+						<itunes:explicit>no</itunes:explicit>
+
+						<link>https://shows.acast.com/5aeff6d96eb47cc259946df2/svajc</link>
+
+						<itunes:episodeType>full</itunes:episodeType>
+
+						<itunes:season>3</itunes:season>
+
+						<itunes:episode>15</itunes:episode>
+
+						<description>undefined</description>
+
+						<itunes:summary>undefined</itunes:summary>
+
+</item>
+
+			<itunes:category text="Technology"/>
+</channel>
+
+</rss>
